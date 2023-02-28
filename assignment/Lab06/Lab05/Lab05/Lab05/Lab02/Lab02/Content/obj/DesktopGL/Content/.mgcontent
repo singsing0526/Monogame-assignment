@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/arrow_l.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/asteroid.tga</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/background.bmp</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/bg.bmp</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/bgi.jpg</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/boom.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/buttet.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/hp.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/plane.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/images/Run.png</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/MyFont.spritefont</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/Sounds/bgm.mp3</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/Sounds/bgmusic.mp3</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/Sounds/explode.wav</File>
+    <File>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/Sounds/gunshot.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

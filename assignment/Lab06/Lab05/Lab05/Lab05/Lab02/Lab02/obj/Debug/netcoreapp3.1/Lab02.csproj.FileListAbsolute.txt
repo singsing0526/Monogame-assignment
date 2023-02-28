@@ -1,0 +1,369 @@
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Downloads\Lab02\Lab02\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab04\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Downloads\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.ogg
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\explode.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\gunshot.xnb
+C:\Users\a1\Desktop\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\scream.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.ogg
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\explode.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\gunshot.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\scream.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csprojAssemblyReference.cache
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\plane.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bg.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\hp.xnb
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.csprojAssemblyReference.cache
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+D:\assignment\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\boom.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.ogg
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.xnb
+D:\Lab06\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bgi.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bg.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bgi.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\boom.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\hp.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\plane.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.ogg
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.ogg
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\explode.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\gunshot.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\scream.xnb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csprojAssemblyReference.cache
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+D:\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csprojAssemblyReference.cache
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bg.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bgi.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\boom.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\buttet.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\hp.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\plane.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.ogg
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.ogg
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\explode.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\gunshot.xnb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+D:\XDDDDD\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\arrow_l.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\asteroid.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\background.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bg.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\bgi.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\boom.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\buttet.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\hp.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\plane.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\images\Run.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\MyFont.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.ogg
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgm.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.ogg
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\bgmusic.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\explode.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Content\Sounds\gunshot.xnb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.exe
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.deps.json
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.json
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.runtimeconfig.dev.json
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\Lab02.pdb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csprojAssemblyReference.cache
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfoInputs.cache
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.AssemblyInfo.cs
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CoreCompileInputs.cache
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.csproj.CopyComplete
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.dll
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.pdb
+D:\XDDDDD\assignment monogame\assignment\Lab06\Lab05\Lab05\Lab05\Lab02\Lab02\obj\Debug\netcoreapp3.1\Lab02.genruntimeconfig.cache

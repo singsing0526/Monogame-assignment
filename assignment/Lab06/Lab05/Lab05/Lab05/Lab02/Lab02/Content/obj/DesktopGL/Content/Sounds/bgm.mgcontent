@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/Sounds/bgm.mp3</SourceFile>
+  <SourceTime>2021-11-30T19:59:48+08:00</SourceTime>
+  <DestFile>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/bin/DesktopGL/Content/Sounds/bgm.xnb</DestFile>
+  <DestTime>2021-11-30T20:27:04.3643458+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/XDDDDD/assignment monogame/assignment/Lab06/Lab05/Lab05/Lab05/Lab02/Lab02/Content/bin/DesktopGL/Content/Sounds/bgm.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
